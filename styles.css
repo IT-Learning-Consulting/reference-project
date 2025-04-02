@@ -250,7 +250,7 @@
         font-size: var(--font-size-heading-regular);
     }
 
-    .background-base {
+    .background-main {
         background-color: var(--background-main);
     }
     .background-light {
